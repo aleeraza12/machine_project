@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Moroccan Days",
+    "author": "John L",
+    "category": "Tech0",
+    "hero": "img1.jpg"
+  },
+  {
+    "title": "Swedish Fishing",
+    "author": "Rachel L",
+    "category": "Tech1",
+    "hero": "img2.jpg"
+  },
+  {
+    "title": "The Adventure Begins",
+    "hero": "snowcup.jpg",
+    "prominent": true
+  },
+  {
+    "title": "Paris in Spring",
+    "author": "John L",
+    "category": "Tech2",
+    "hero": "img3.jpg"
+  },
+  {
+    "title": "Youthful Independence",
+    "author": "Rachel L",
+    "category": "Tech3",
+    "hero": "img1.jpg"
+  },
+  {
+    "title": "Trial By Fire",
+    "author": "Anthony R",
+    "category": "Tech4",
+    "hero": "img1.jpg"
+  },
+  {
+    "title": "Water Ventures",
+    "author": "Rachel L",
+    "category": "Tech5",
+    "hero": "img1.jpg"
+  },
+  {
+    "title": "Mt. Zekial",
+    "author": "Rachel L",
+    "category": "Tech6",
+    "hero": "img2.jpg"
+  },
+  {
+    "title": "Cozumel Caves",
+    "author": "Rachel L",
+    "category": "Tech7",
+    "hero": "img2.jpg"
+  },
+  {
+    "title": "Amazing Ireland",
+    "author": "Rachel L",
+    "category": "Tech8",
+    "hero": "img3.jpg"
+  },
+  {
+    "title": "Cabin Fever",
+    "author": "Rachel L",
+    "category": "Tech9",
+    "hero": "img3.jpg"
+  },
+  {
+    "title": "To the ancient ruins",
+    "author": "Rachel L",
+    "category": "Travel",
+    "hero": "img1.jpg"
+  },
+  {
+    "title": "New fashion trends",
+    "author": "Rachel L",
+    "category": "Travel",
+    "hero": "img2.jpg"
+  },
+  {
+    "title": "Go on a vacation",
+    "author": "Rachel L",
+    "category": "Travel",
+    "hero": "img3.jpg"
+  }
+]
